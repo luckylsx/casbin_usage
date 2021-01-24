@@ -17,4 +17,5 @@
 # vendor/
 .idea
 .vscode
+go.mod
 
